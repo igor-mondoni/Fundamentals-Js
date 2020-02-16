@@ -1,0 +1,15 @@
+true e true = true
+true e false = false
+false e qualquer coisa = false
+
+true ou qualquer coisa = true
+false ou true = true
+false ou false = false
+
+true xor true = false
+true xor false = true
+false xor true = true
+false xor false = false
+
+!true = false
+!false = true
